@@ -13,7 +13,7 @@ Github需要用PUT方法提交文件，而MWeb只能使用POST方法，所以就
 2. `yarn（or npm install）` 安装依赖
 3. 修改config.json
 4. `node index.js` 运行server
-5. 在Mweb中添加发布服务（or 其他用途）
+5. 在MWeb中添加发布服务（or 其他用途）
 
 ## `config.json` 说明
 
@@ -63,7 +63,7 @@ sudo chmod 777 run.sh
 
 ![](https://raw.githubusercontent.com/gaopeng-hz/images/master/20190725144716.jpg)
 
-重启后再用`ps | grep index.js`查看进程，可以看到服务已经启动。
+重启后可以直接使用MWeb上传图片了。
 
 ## 参考
 
