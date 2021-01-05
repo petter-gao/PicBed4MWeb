@@ -6,7 +6,7 @@
   "author": "gaopeng",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "formidable": "^1.1.1",
     "log4js": "^1.1.1",
     "moment": "^2.24.0"
